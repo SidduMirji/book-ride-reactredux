@@ -1,0 +1,25 @@
+// import starting from the src/ folder
+@import "variables.scss";
+
+// common props
+::-webkit-scrollbar {
+  width: 0.4em;
+}
+::-webkit-scrollbar,
+::-webkit-scrollbar-thumb {
+  overflow: visible;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+body {
+  background: $applicationBg !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.progressBar {
+  background: $color-green;
+}

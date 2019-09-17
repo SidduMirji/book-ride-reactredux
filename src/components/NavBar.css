@@ -1,0 +1,11 @@
+.nav-root {
+  flex-grow: 1;
+}
+
+.app-title {
+  flex-grow: 1;
+}
+
+.secondary-text {
+  color: #bbbbbb;
+}
