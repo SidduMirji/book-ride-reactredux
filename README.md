@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is the sample project demo which creates the booking request and provides utility to register new user and login.:
 
+
+## DEMO URL
+
+https://book-ride-rrbo.netlify.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
